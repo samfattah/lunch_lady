@@ -20,3 +20,18 @@ main_dish = {
     calories: 10,
   },
 }
+
+side_dish = {
+  fries: {
+    price: 1.50,
+  calories: 200,
+  },
+  steamed_veggies: {
+    price: 1.00,
+    calories: 80,
+  },
+  chips:{
+    price: 1.25,
+    calories: 180,
+  },
+}
